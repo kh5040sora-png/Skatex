@@ -1,0 +1,1 @@
+{"name":"skatex-chatgpt-app","private":true,"version":"0.1.0","workspaces":["server"],"scripts":{"dev":"npm --workspace server run dev","build":"npm --workspace server run build","start":"npm --workspace server run start"}}
