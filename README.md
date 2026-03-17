@@ -1,1 +1,1 @@
-curl --url https://skatex.base44.app
+https://skatex.base44.app
